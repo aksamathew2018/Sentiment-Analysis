@@ -99,5 +99,3 @@ The **SVM model achieved the highest accuracy**, indicating better performance f
 
 
 
-If you want, I can also write a **very strong LinkedIn post for this project (the type that gets 5–10× more reach)**.
-
